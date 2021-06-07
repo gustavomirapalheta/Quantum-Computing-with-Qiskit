@@ -1,0 +1,30 @@
+Sequência
+   - Inferência Estatística (ou Intro Big Data)
+     1.1) Introdução, R, Rstudio
+	 1.2) ggplot: mpg, diamonds, iris, limite central, p-valor
+	 2.1) dplyr, tidyr, exercícios nycflights13
+	 2.2) funções, apply, listas, factors, gapminder
+	 3.x) exercício: salário de formandos em R
+	 4.x) exercício: salário de formandos em Python
+		  Prova: Base Czech
+		
+   - Análise Preditiva Avançada (ou Business Analytics)
+     1.1) Excel: discr.linear (continua)
+	 1.2) Excel: regressão logística (continua) 
+	 2.1) R: discr.linear (rags), logistica (telef), SVM (iris)
+	 2.2) R: ISLR 3.(regr.linear), 4.(classif.), 5.(resampling)
+	 3.1) Python: regressão linear
+	 3.2) Python: regressão logística
+	 4.x) exercício: caso Art History in Florence
+		  Prova: Caso German
+		
+   - Machine Learning (ou Machine Learning para Negócios)
+    1.1) Keras: MNIST, IMDB
+	1.2) Keras: Reuters, Boston
+	2.1) Keras: Convolutivas
+	2.2) Keras: Convolutivas, Data Augmentation
+	3.1) Keras: Sequenciais
+	3.2) Keras: Sequenciais, Texto
+	4.1) Keras: functional APIs, callbacks, tensorboard
+	4.2) Keras: Autogenerativas
+	     Prova: Caso Blue365
