@@ -24,4 +24,3 @@ This is going to be my first full course developed using Github. I have uploaded
 Use the following links:
 
 * [Lecture-0 Full Course on Quantum Machine Learning](http://nbviewer.ipython.org/urls/github.com/gustavomirapalheta/Quantum-Computing-with-Qiskit/blob/main/Quantum_Machine_Learning_with_Qiskit_v2023.ipynb)
-
